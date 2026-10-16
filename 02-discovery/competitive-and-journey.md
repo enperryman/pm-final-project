@@ -10,4 +10,4 @@
 3. To avoid that friction, the driver texts the dispatcher instead of completing the status update in the app.
 - **Core frustration, the exact moment the process feels most “broken”:** The driver has to switch from the delivery workflow to messaging, and the delivery status no longer enters the app through its intended path.
 - **The evidence, a specific quote or behavior from the research that proves this:** "To mark a stop delivered I tap through three screens. In the rain, at a doorstep, with a package in one hand. I've started just texting my dispatcher instead."
-- **Your journey map, a shareable link, or the map file you committed (e.g. journey-map.html):** file:///C:/Users/enper/Documents/Codex/2026-10-15/role-you-are-a-lead-product/outputs/driver-future-state-journey.html
+- **Your journey map, a shareable link, or the map file you committed (e.g. journey-map.html):** https://github.com/enperryman/pm-final-project/blob/main/02-discovery/RouteLogic_JourneyMap.png
