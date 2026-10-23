@@ -25,4 +25,4 @@ B6 Driver Alert Notifications
 - **What I cut, and the “no” I’m protecting the scope from:** B2 Smart Daily Report Auto-fill
 B4 Mobile-First Coordinator Dashboard
 B7 Contextual AI ETA Display
-- **Prototype/roadmap screenshot link (paste into your deliverables):** file:///C:/Users/enper/Documents/Codex/2026-10-22/the-senior-pm-scoring-promptact-as/outputs/routelogic-velocity-roadmap.html
+- **Prototype/roadmap screenshot link (paste into your deliverables):** /C:/Users/enper/Documents/Codex/2026-10-22/the-senior-pm-scoring-promptact-as/outputs/routelogic-velocity-roadmap.html
